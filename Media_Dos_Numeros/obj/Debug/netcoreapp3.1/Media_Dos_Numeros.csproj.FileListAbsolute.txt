@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\bin\Debug\netcoreapp3.1\Media_Dos_Numeros.exe
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\bin\Debug\netcoreapp3.1\Media_Dos_Numeros.deps.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\bin\Debug\netcoreapp3.1\Media_Dos_Numeros.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\bin\Debug\netcoreapp3.1\Media_Dos_Numeros.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\bin\Debug\netcoreapp3.1\Media_Dos_Numeros.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\bin\Debug\netcoreapp3.1\Media_Dos_Numeros.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\obj\Debug\netcoreapp3.1\Media_Dos_Numeros.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\obj\Debug\netcoreapp3.1\Media_Dos_Numeros.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\obj\Debug\netcoreapp3.1\Media_Dos_Numeros.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\obj\Debug\netcoreapp3.1\Media_Dos_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\obj\Debug\netcoreapp3.1\Media_Dos_Numeros.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\obj\Debug\netcoreapp3.1\Media_Dos_Numeros.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Media_Dos_Numeros\Media_Dos_Numeros\obj\Debug\netcoreapp3.1\Media_Dos_Numeros.genruntimeconfig.cache
